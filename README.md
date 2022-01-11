@@ -1,6 +1,6 @@
 # MAP Fonts
 WORK IN PROGRESS
-*As in: 'this is not a fully finished product, but it is most likely not receiving any updates in the near future'*
+*/ As in: 'this is not a fully finished product, but it is most likely not receiving any updates in the near future'*
 
 The MAP fonts were developed for the visual identity of the 7th edition of the Bolsa Pampulha program by Gabriel Figueiredo, who was then hired by JA.CA to coordinate for the edition's graphic design needs.
 
