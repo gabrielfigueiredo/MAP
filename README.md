@@ -8,4 +8,4 @@ The fonts are based on the lettering on the Museu de Arte da Pampulha's façade,
 To contribute to the project, contact Gabriel Figueiredo at oi@gabrielfigueiredo.com
 
 # License
-• MAP is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
+MAP is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
